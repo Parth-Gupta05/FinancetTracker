@@ -199,6 +199,7 @@ const Row3 = () => {
         </Box>
         <Typography margin="0 1rem" variant="h6">
         This website demonstration is solely intended for personal portfolio display.
+        backend database url: https://finance-backend-guoyi.fly.dev/kpi/kpis
         </Typography>
       </DashboardBox>
     </>
