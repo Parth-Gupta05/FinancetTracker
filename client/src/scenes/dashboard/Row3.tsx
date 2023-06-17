@@ -198,12 +198,7 @@ const Row3 = () => {
           ></Box>
         </Box>
         <Typography margin="0 1rem" variant="h6">
-        This is just for demonstration, some random text.
-        Leveraging the power of real-time data with our MERN Finance Dashboard
-        Navigate your finances seamlessly through intuitive design and robust functionality.
-        Harness the strength of advanced analytics to fuel your financial decision-making.
-        Experience the next generation of financial dashboards, right at your fingertips.
-        Bringing together cutting-edge technology to make finance management effortless and efficient.
+        This website demonstration is solely intended for personal portfolio display.
         </Typography>
       </DashboardBox>
     </>
